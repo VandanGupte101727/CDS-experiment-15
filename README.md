@@ -93,3 +93,20 @@ CODE:-
     print_rev(i);
     return 0;
     }
+
+OUTPUT:-<br>
+
+1).<br>
+![exp15](https://github.com/VandanGupte101727/CDS-experiment-15/blob/main/Screenshot%202024-09-15%20at%2011.16.32%20AM.png)<br>
+
+2).<br>
+![exp15](https://github.com/VandanGupte101727/CDS-experiment-15/blob/main/Screenshot%202024-09-15%20at%2011.19.56%20AM.png)<br>
+
+3).<br>
+![exp15](https://github.com/VandanGupte101727/CDS-experiment-15/blob/main/Screenshot%202024-09-15%20at%2011.25.36%20AM.png)<br>
+
+4).<br>
+![exp15](https://github.com/VandanGupte101727/CDS-experiment-15/blob/main/Screenshot%202024-09-15%20at%2011.27.06%20AM.png)<br>
+
+Conclusion:-<br>
+In this experiment we learnt the logic of recursion and implemented it .
